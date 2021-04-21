@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 __I’m currently working on__
-Waterfall - Infrastructure as a graph (drag-n-drop PaaS)
+Poin - Infrastructure as a graph (drag-n-drop PaaS)
 
 🌱 __I’m currently learning__
 Rust & ThreeJS
