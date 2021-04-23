@@ -4,7 +4,7 @@
 Poin - Infrastructure as a graph (drag-n-drop PaaS)
 
 🌱 __I’m currently learning__
-Rust & ThreeJS
+Rust & OpenGL
 
 📫 __How to reach me__
 https://www.linkedin.com/in/tommy-almeida/
