@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Tomás Almeida, self-thought 22y old Backend Engineer from Lisbon, Portugal and currently working for <a href="www.opplane.com">Opplane</a>.
+I'm Tomás Almeida, self-thought 22y old Backend Engineer from Lisbon, Portugal and currently working for <a href="www.parsly.com">Parsly</a>.
 
 
 🔭 __On-going side-projects__
