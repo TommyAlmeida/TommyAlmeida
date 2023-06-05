@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Tomás Almeida, self-thought 24y DevOps Engineer from Lisbon, Portugal and currently working for <a href="www.parsly.com">Parsly</a>.
+I'm Tomás Almeida, self-thought 24y DevOps Engineer from Lisbon, Portugal.
 
 
 🔭 __On-going side-projects__
