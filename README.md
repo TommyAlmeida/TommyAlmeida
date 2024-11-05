@@ -5,7 +5,7 @@ I'm Tomás Almeida, self-thought 24y DevOps Engineer from Lisbon, Portugal.
 
 🔭 __On-going side-projects__
 
-Poin - Infrastructure as a node flow (drag-n-drop PaaS).
+[Poin](https://poin.io)
 
 
 💼 [Email](mailto:tomasrsduarte@gmail.com)
